@@ -14,6 +14,10 @@ Progress is organized by evidence and capability, not release dates. Phases over
 
 Synthetic demonstrations exercise workflows. They do not establish independent preferences, proven learning, or completed real-world experiments. TEE remains a private prototype with bounded autonomy.
 
+## Unified Evolutionary Memory update
+
+[Development progress](PROGRESS.md) records project-reported implementation and offline verification of shared retrieval, consent-aware cumulative learning, evidence-linked hypothesis revisions, and optional reconsideration proposals. A separately authorized real-model sequence demonstrated use of two synthetic memory sources; it preceded Stage 2 and did not live-test Stage 2 reconsideration. These results do not close the long-term evaluation milestones below or establish operational deployment.
+
 ## Phase 1 — Foundations
 
 **Give one AI a history it can return to.**

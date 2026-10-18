@@ -68,6 +68,8 @@ Any open activity will have a separate invitation describing its purpose, expect
 
 ## Following the experiment
 
+See [Development progress](PROGRESS.md) for the Unified Evolutionary Memory update and its evidence status.
+
 If you build AI systems, study how agents develop, or simply wonder what an AI might choose to explore over time, follow this repository.
 
 Future documentation and reviewed progress updates should make the trajectory visible: which questions emerged, which ideas became experiments, what was observed, and what changed afterward. Proposals, synthetic tests, and real-world outcomes will be identified separately.
