@@ -66,6 +66,20 @@ Participants bring their own perspectives. Their accounts can add context, expos
 
 Any open activity will have a separate invitation describing its purpose, expectations, and participation terms. GitHub issues are for public project discussion; please do not submit participant records, private conversations, or personal information there.
 
+## Documentation
+
+Engineering reports are dated snapshots, newest first; later reports may supersede earlier status statements.
+
+| Document | What it covers |
+| --- | --- |
+| [Vision](VISION.md) | Explains TEE's long-term ambition and research questions. |
+| [Roadmap](ROADMAP.md) | Separates implemented foundations, ongoing evaluation, and future milestones. |
+| [Development progress](PROGRESS.md) | Records reported Unified Memory verification and the scope of an earlier controlled demonstration. |
+| [Evolution timeline](EVOLUTION_TIMELINE.md) | Tracks documented public milestones through October 20, 2026. |
+| [Engineering — October 21, 2026](docs/engineering/2026-10-21-stage-2b-offline-progress.md) | Summarizes offline engineering progress and unresolved verification gaps. |
+| [Engineering — October 19, 2026](docs/engineering/2026-10-19-stage-2b-memory-integrity.md) | Sets out memory-integrity and integration-verification priorities. |
+| [Engineering — October 18, 2026](docs/engineering/2026-10-18-stage-2a-review.md) | Describes Stage 2A operator-review implementation and its evidence limitations. |
+
 ## Following the experiment
 
 See [Development progress](PROGRESS.md) for the Unified Evolutionary Memory update and its evidence status.
