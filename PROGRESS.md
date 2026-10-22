@@ -77,7 +77,7 @@ TEE's autonomy remains bounded. No consciousness, unrestricted autonomy, proven 
 
 ## Remaining work and future capabilities
 
-- Stage 2A operator review remains planned. It is distinct from the completed Phase 2A consent and retention foundation listed above.
+- Stage 2A operator review was pending in this original progress snapshot; its implementation was subsequently documented in the [October 18 engineering report](docs/engineering/2026-10-18-stage-2a-review.md). The [October 21 Stage 2B report](docs/engineering/2026-10-21-stage-2b-offline-progress.md) records additional offline engineering progress and remaining verification gaps. Successful end-to-end real-model integration remains unverified. Stage 2A operator review is distinct from the completed Phase 2A consent and retention foundation listed above.
 
 - Evaluate repeatability, alternative explanations, conflicting evidence, and longer histories.
 - Separately evaluate Stage 2 reconsideration with real-model operations if authorized; the experiment above does not provide that evidence.
