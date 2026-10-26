@@ -75,7 +75,9 @@ Engineering reports are dated snapshots, newest first; later reports may superse
 | [Vision](VISION.md) | Explains TEE's long-term ambition and research questions. |
 | [Roadmap](ROADMAP.md) | Separates implemented foundations, ongoing evaluation, and future milestones. |
 | [Development progress](PROGRESS.md) | Records reported Unified Memory verification and the scope of an earlier controlled demonstration. |
-| [Evolution timeline](EVOLUTION_TIMELINE.md) | Tracks documented public milestones through October 20, 2026. |
+| [Evolution timeline](EVOLUTION_TIMELINE.md) | Tracks documented development milestones, reported verification, and remaining research questions. |
+| [Conceptual architecture](ARCHITECTURE.md) | Explains TEE's conceptual information flow, prototype foundations, and future ambitions. |
+| [Contributing](CONTRIBUTING.md) | Explains public discussion guidelines, evidence standards, and participation boundaries. |
 | [Engineering — October 21, 2026](docs/engineering/2026-10-21-stage-2b-offline-progress.md) | Summarizes offline engineering progress and unresolved verification gaps. |
 | [Engineering — October 19, 2026](docs/engineering/2026-10-19-stage-2b-memory-integrity.md) | Sets out memory-integrity and integration-verification priorities. |
 | [Engineering — October 18, 2026](docs/engineering/2026-10-18-stage-2a-review.md) | Describes Stage 2A operator-review implementation and its evidence limitations. |
